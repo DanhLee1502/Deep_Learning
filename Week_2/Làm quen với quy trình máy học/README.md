@@ -1,1 +1,1 @@
-
+Repo này gồm 3 notebook thực hành quy trình Machine Learning/Deep Learning, xây dựng theo khung 6 bước (Prepare Problem → Summarize Data → Prepare Data → Evaluate Algorithms → Improve Accuracy → Finalize Model) trong sách Machine Learning Mastery With Python.
