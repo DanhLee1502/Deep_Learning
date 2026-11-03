@@ -1,3 +1,5 @@
 **Lan truyền xuôi và ngược:** Thực hiện tính toán thủ công từng bước từ việc tính tổng có trọng số, dự đoán đầu ra, đo lường sai số bằng hàm mất mát (Cross-Entropy/MSE) cho đến tính toán gradient bằng quy tắc dây chuyền và cập nhật trọng số (Gradient Descent).
+
 **Vector hóa (Vectorization):** Biểu diễn mạng nơ-ron dưới dạng vector và ma trận. Phân tích lợi ích của việc tính toán bằng ma trận so với tính từng nơ-ron trong việc tối ưu tốc độ và xử lý dữ liệu lớn.
+
 **Khảo sát hàm kích hoạt:** Đánh giá chi tiết cách các hàm kích hoạt khác nhau (Sigmoid, Tanh, ReLU) tương tác với hàm mất mát và ảnh hưởng của chúng đến quá trình cập nhật trọng số (như vấn đề triệt tiêu gradient hay hiện tượng dying ReLU).
