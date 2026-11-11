@@ -1,1 +1,3 @@
-
+**Phần A - Nơ-ron không hàm kích hoạt (Tuyến tính):** Tính toán Forward Pass, hàm mất mát (MSE), gradient và cập nhật tham số (trọng số $w$ và bias $b$) theo cách thủ công.
+**Phần B - Nơ-ron có hàm kích hoạt Sigmoid:** Thực hiện các bước tương tự nhưng có tích hợp hàm Sigmoid vào dự đoán, áp dụng quy tắc dây chuyền (Chain Rule) để tính gradient.
+**Phần C - So sánh và Nhận xét:** Đối chiếu biểu thức gradient của hai mô hình[cite: 13]. Giải thích lý do gradient của Sigmoid nhỏ hơn, tốc độ hội tụ của mô hình tuyến tính nhanh hơn và phân tích sự không phù hợp của Sigmoid đối với bài toán hồi quy có giá trị mục tiêu lớn.
